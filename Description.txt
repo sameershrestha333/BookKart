@@ -1,0 +1,2 @@
+This it Single page application (SPA) using Routingwhich provide user to see list of books, search through the list of book,add their favorite book to the cart and buy the book
+Technology used: AngularJS,HTML, CSS and Javascript
